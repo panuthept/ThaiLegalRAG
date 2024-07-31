@@ -4,3 +4,8 @@ torch
 trl
 datasets
 pandas
+pythainlp>=5.0.4
+nltk>=3.8.1
+jiwer>=3.0.4
+evaluate
+rouge_score
